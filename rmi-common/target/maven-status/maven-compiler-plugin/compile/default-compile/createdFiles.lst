@@ -1,0 +1,4 @@
+org\example\rmi\bean\Permission.class
+org\example\rmi\bean\User.class
+org\example\rmi\service\IPermissionService.class
+org\example\rmi\service\IUserService.class
